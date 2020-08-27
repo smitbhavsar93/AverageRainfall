@@ -7,3 +7,6 @@ sure it is a .txt or .dat file and voila! Code will be able to run.
 
 ## Geany
 This program was coded on Geany, to download Geany, visit : https://www.geany.org/download/releases/ and download their latest release on your compatible device.
+
+## Full Report 
+To view a full report on this program and code, you can check it out on : https://drive.google.com/file/d/1qBRTqCCMV5dM-lU-dMlwbAK34834h5rU/view
