@@ -1,4 +1,5 @@
 # AverageRainfall
+My final term project for my first-year university digital computation and programming club. The aim of the program was to read in a text file of 6 columns and a maximum of 256 rows and output multiple different pieces of information. Each separate program does something unique, so go ahead and knock yourself out!
 
 ## How to run code
 For this code to work, drag and drop any of these .c files into a c programming compiler, the code for us was written on a software called Geany. 
